@@ -1,2 +1,0 @@
-name: preoject_database
-user: web_user
